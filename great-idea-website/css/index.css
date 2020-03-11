@@ -68,5 +68,64 @@ h1, h2, h3, h4, h5 {
 .navigation {
 	color: red;
 	display: inline-block;
+	background-color: red;
+	margin: 30px;
+	padding: 40px;
 }
 
+.navigation a {
+	margin: 30px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.navigation a:hover {
+	color: pink;
+}
+
+.navigation img {
+	padding: 0px 90px;
+}
+
+.logo {
+	display: inline-block;
+}
+
+h1 {
+	font-size: 50px;
+	display: inline-block;
+	margin: 40px;
+	padding: 0px 150px;
+	text-align: center;
+	background-color: blue;
+}
+
+.top-img {
+	background-color: purple;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px 60px;
+}
+
+button {
+	background-color: pink;
+	margin: 5px 200px 70px;
+	padding: 20px 80px;
+}
+
+button:hover {
+	background-color: yellow;
+}
+
+.top-content {
+	background-color: blue;
+}
+
+.features {
+	background-color: green;
+	margin: 20px;
+}
+
+.about {
+	background-color: yellow;
+}
